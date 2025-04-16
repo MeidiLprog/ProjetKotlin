@@ -32,7 +32,7 @@ Créer une app Android en Kotlin qui :
 - Pré-sélection aléatoire de 4 séries
 - Téléchargement des amiibos associés via Retrofit
 - Enregistrement local avec Realm
-
+![img_alt](https://github.com/MeidiLprog/ProjetKotlin/blob/0e622ddbb2bf732dea3b150eb9ab84d5f986926a/r%C3%A9cup.PNG)
 ## Écran de jeu (GameActivity)
 - Affiche une image d’un personnage aléatoire
 - Affiche 3 réponses possibles (noms ou séries)
