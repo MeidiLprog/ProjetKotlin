@@ -40,6 +40,8 @@ Créer une app Android en Kotlin qui :
 - Toasts de feedback utilisateur
 - Changement automatique de question
 
+![img_alt](https://github.com/MeidiLprog/ProjetKotlin/blob/2757c6f5c6749bf2fce4462889b30240f7be2fa6/jeu.PNG)
+
 ## Musique MusicManager.kt
 - Lecture d'une musique de fond en boucle
 - Volume contrôlable depuis les options
