@@ -48,7 +48,7 @@ Créer une app Android en Kotlin qui :
 - Volume contrôlable depuis les options
 - Pause automatique quand l’app est en arrière-plan (via `Musique_Glob`)
 - Reprise automatique quand l’app revient
-
+![img_alt](https://github.com/MeidiLprog/ProjetKotlin/blob/e6f93e07025ed89ef1bbae2b154ce60926080055/options.PNG)
 ---
 
 ## Architecture technique
