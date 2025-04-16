@@ -24,6 +24,7 @@ Créer une app Android en Kotlin qui :
 - Lancement du jeu
 - Accès aux options (volume, musique)
 - Bouton Quitter (avec System.exit)
+  ![img_alt](https://github.com/MeidiLprog/ProjetKotlin/blob/4b952cd7d70d0316caa2b34003283a2c105abe76/menu.PNG)
 
 ### Sélection de séries de jeux (`GameSeriesSelectionActivity`)
 - Affiche dynamiquement toutes les GameSeries (via l'API)
